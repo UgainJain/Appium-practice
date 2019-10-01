@@ -6,11 +6,13 @@ import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+
+import io.appium.java_client.AppiumDriver;
 import utils.Base.Drivers;
 
 public class ScreenShotManager extends Drivers {
 
-	public String CaptureScreenshot(String ScreenshotName, WebDriver driver) {
+	public String CaptureScreenshot(String ScreenshotName, AppiumDriver driver) {
 	String path = null;
 	String relativepath = null;
 	try {
