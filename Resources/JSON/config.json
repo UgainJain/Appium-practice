@@ -1,0 +1,7 @@
+{
+    "DeviceName": "AndroidDevice",
+    "PlatformName" : "android",
+    "PlatformVer" : "5.1",
+    "AppPackage" : "com.example.android.apis",
+    "AppMainAct" : "com.example.android.apis.ApiDemos"
+}

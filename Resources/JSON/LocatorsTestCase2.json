@@ -1,0 +1,7 @@
+{
+    "App":"//android.widget.TextView[@text = 'App']",
+    "ActionBar":"//android.widget.TextView[@text= 'Action Bar']" ,
+    "Displayopt":"//android.widget.TextView[@text= 'Display Options']" ,
+    "ShowTtlBtn":"com.example.android.apis:id/toggle_show_title",
+    "Title":"//android.widget.TextView[@text= 'App/Action Bar/Display Options']" 
+}

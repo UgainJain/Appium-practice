@@ -1,0 +1,10 @@
+{
+"Animation":"//android.widget.TextView[@text= 'Animation']",
+"Hide/show" : "//android.widget.TextView[@text= 'Hide-Show Animations']",
+"HideBtn" : "com.example.android.apis:id/hideGoneCB",
+"0": "//android.widget.Button[@text= '0']",
+"1": "//android.widget.Button[@text= '1']",
+"2": "//android.widget.Button[@text= '2']",
+"3": "//android.widget.Button[@text= '3']",
+"ShowBtn": "com.example.android.apis:id/addNewButton"
+}
